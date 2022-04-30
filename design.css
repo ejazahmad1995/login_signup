@@ -1,0 +1,22 @@
+#container{
+    border: .5px solid gray;
+    height: 500px;
+    width: 35%;
+  margin: auto;
+  margin-top: 30px;
+
+}
+img{
+    margin-left: 45%;
+
+}
+
+h1{
+    text-align: center;
+}
+input{
+    width: 80%;
+    height: 50px;
+    border-radius: 8px;
+    margin: auto;
+}
